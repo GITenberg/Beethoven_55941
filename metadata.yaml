@@ -1,5 +1,5 @@
 _repo: Beethoven_55941
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Carpenter, Edward
@@ -25,6 +25,9 @@ contributor:
     - Hull, Bertha Constance Barrett
     gutenberg_agent_id: '48588'
     url: http://www.gutenberg.org/2009/agents/48588
+covers:
+- cover_type: archival
+  image_path: 55941-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -35,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55941#Beethoven
 gutenberg_issued: '2017-11-12'
 gutenberg_type: Text
 identifiers:
